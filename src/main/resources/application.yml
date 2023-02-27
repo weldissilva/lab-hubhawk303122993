@@ -1,0 +1,7 @@
+micronaut:
+  application:
+    name: labHubhawk303122993
+netty:
+  default:
+    allocator:
+      max-order: 3
